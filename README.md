@@ -7,4 +7,5 @@
   2) pg-fastCampu-spring-dmaker ( dmaker )
   3) pg-fastCampus-spring-java-oop ( pg-fastCampus-spring-java-oop )
   4) pg-fastCampus-spring-uno-practice ( pg-fastCampus-spring-uno-practice )
+  5) pg-fastCampus-spring-boot-uno-practice ( pg-fastCampus-spring-boot-uno-practice)
 ```
