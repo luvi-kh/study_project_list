@@ -11,4 +11,5 @@
   6) fastcampus-spring-boot-practice ( fastcampus-spring-boot-practice ) 
   7) pg-fastCampus-spring-uno-get-in-line ( pg-fastCampus-spring-uno-get-in-line )
   8) fastCampus-spring-uno-get-in-line ( fastCampus-spring-uno-get-in-line )
+  9) fastCampus-spring-security-practice ( fastCampus-spring-security-practice )
 ```
