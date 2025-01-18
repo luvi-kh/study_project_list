@@ -13,4 +13,5 @@
   8) fastCampus-spring-uno-get-in-line ( fastCampus-spring-uno-get-in-line )
   9) fastCampus-spring-security-practice ( fastCampus-spring-security-practice )
   10) fastCampus-spring-point-management-practice ( fastCampus-spring-point-management-practice )
+  11) fastCampus-spring-social-signup ( fastCampus-spring-social-signup )
 ```
