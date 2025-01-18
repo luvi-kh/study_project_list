@@ -15,4 +15,6 @@
   10) fastCampus-spring-point-management-practice ( fastCampus-spring-point-management-practice )
   11) fastCampus-spring-social-signup ( fastCampus-spring-social-signup )
   12) fastCampus-spring-springboot-oauth2 ( fastCampus-spring-springboot-oauth2 )
+  13) fastCampus-spring-hello-spring-batch ( fastCampus-spring-hello-spring-batch )
+  14) fastCampus-spring-house-batch ( fastCampus-spring-house-batch )
 ```
