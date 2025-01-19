@@ -17,4 +17,5 @@
   12) fastCampus-spring-springboot-oauth2 ( fastCampus-spring-springboot-oauth2 )
   13) fastCampus-spring-hello-spring-batch ( fastCampus-spring-hello-spring-batch )
   14) fastCampus-spring-house-batch ( fastCampus-spring-house-batch )
+  15) fastCampus-spring-spring-rest-docs ( fastCampus-spring-spring-rest-docs )
 ```
