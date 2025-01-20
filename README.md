@@ -18,4 +18,6 @@
   13) fastCampus-spring-hello-spring-batch ( fastCampus-spring-hello-spring-batch )
   14) fastCampus-spring-house-batch ( fastCampus-spring-house-batch )
   15) fastCampus-spring-spring-rest-docs ( fastCampus-spring-spring-rest-docs )
+  16) fastCampus-spring-code-design ( fastCampus-spring-code-design )
+  17) fastCampus-spring-final-project-calendar ( fastCampus-spring-final-project-calendar )
 ```
