@@ -23,5 +23,5 @@
 3. fastCampus_backendJavaSpring
   1) fastCampus-backendJavaSpring-mvc-practice ( fastCampus-backendJavaSpring-mvc-practice )
   2) fastCampus-backendJavaSpring-oop-practice ( fastCampus-backendJavaSpring-oop-practice )
-
+  3) fastCampus-backendJavaSpring-was-practice ( fastCampus-backendJavaSpring-was-practice )
 ```
