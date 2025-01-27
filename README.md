@@ -22,5 +22,6 @@
   17) fastCampus-spring-final-project-calendar ( fastCampus-spring-final-project-calendar )
 3. fastCampus_backendJavaSpring
   1) fastCampus-backendJavaSpring-mvc-practice ( fastCampus-backendJavaSpring-mvc-practice )
+  2) fastCampus-backendJavaSpring-oop-practice ( fastCampus-backendJavaSpring-oop-practice )
 
 ```
