@@ -28,4 +28,5 @@
   5) fastCampus-backendJavaSpring-jdbc-practice ( fastCampus-backendJavaSpring-jdbc-practice )
   6) fastCampus-backendJavaSpring-di-practice ( fastCampus-backendJavaSpring-di-practice )
   7) fastCampus-backendJavaSpring-project-board ( fastCampus-backendJavaSpring-project-board )
+  8) fastCampus-backendJavaSpring-project-board-admin ( fastCampus-backendJavaSpring-project-board-admin )
 ```
