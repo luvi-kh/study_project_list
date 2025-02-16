@@ -33,4 +33,5 @@
   10) fastCampus-backendJavaSpring-MultiModule ( fastCampus-backendJavaSpring-MultiModule )
   11) fastCampus-backendJavaSpring-SpringAsync ( fastCampus-backendJavaSpring-SpringAsync )
   12) fastCampus-backendJavaSpring-FeignClient ( fastCampus-backendJavaSpring-FeignClient )
+  13) fastCampus-backendJavaSpring-Logback ( fastCampus-backendJavaSpring-Logback )
 ```
