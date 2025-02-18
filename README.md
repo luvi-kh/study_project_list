@@ -35,4 +35,5 @@
   12) fastCampus-backendJavaSpring-FeignClient ( fastCampus-backendJavaSpring-FeignClient )
   13) fastCampus-backendJavaSpring-Logback ( fastCampus-backendJavaSpring-Logback )
   14) fastCampus-backendJavaSpring-GithubAction ( fastCampus-backendJavaSpring-GithubAction )
+  15) fastCampus-backendJavaSpring-Pharmacy-Recommendation ( fastCampus-backendJavaSpring-Pharmacy-Recommendation )
 ```
