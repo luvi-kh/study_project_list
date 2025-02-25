@@ -37,5 +37,6 @@
   14) fastCampus-backendJavaSpring-GithubAction ( fastCampus-backendJavaSpring-GithubAction )
   15) fastCampus-backendJavaSpring-Pharmacy-Version-Management ( fastCampus-backendJavaSpring-Pharmacy-Version-Management )
   16) fastCampus-backendJavaSpring-Pharmacy-Recommendation ( fastCampus-backendJavaSpring-Pharmacy-Recommendation )
-  17) fastCampus-backendJavaSpring-Simple-SNS ( fastCampus-backendJavaSpring-Simple-SNS )
+  17) fastCampus-backendJavaSpring-sns ( fastCampus-backendJavaSpring-sns )
+  18) fastCampus-backendJavaSpring-Simple-SNS ( fastCampus-backendJavaSpring-Simple-SNS )
 ```
