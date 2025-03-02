@@ -39,4 +39,5 @@
   16) fastCampus-backendJavaSpring-Pharmacy-Recommendation ( fastCampus-backendJavaSpring-Pharmacy-Recommendation )
   17) fastCampus-backendJavaSpring-sns ( fastCampus-backendJavaSpring-sns )
   18) fastCampus-backendJavaSpring-Simple-SNS ( fastCampus-backendJavaSpring-Simple-SNS )
+  19) fastCampus-backendJavaSpring-loan ( fastCampus-backendJavaSpring-loan )
 ```
