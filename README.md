@@ -41,4 +41,5 @@
   18) fastCampus-backendJavaSpring-Simple-SNS ( fastCampus-backendJavaSpring-Simple-SNS )
   19) fastCampus-backendJavaSpring-loan ( fastCampus-backendJavaSpring-loan )
   20) fastCampus-backendJavaSpring-redisForZset ( fastCampus-backendJavaSpring-redisForZset )
+  21) fastCampus-backendJavaSpring-kafkaExercise ( fastCampus-backendJavaSpring-kafkaExercise )
 ```
