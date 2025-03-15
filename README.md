@@ -44,4 +44,5 @@
   21) fastCampus-backendJavaSpring-kafkaExercise ( fastCampus-backendJavaSpring-kafkaExercise )
 4. fastCampus-heavyTrafficProject
   1) fastCampus-heavyTrafficProject-Board-Server ( fastCampus-heavyTrafficProject-Board-Server )
+  2) fastCampus-heavyTrafficProject-Board-Server-Locust ( fastCampus-heavyTrafficProject-Board-Server-Locust )
 ```
