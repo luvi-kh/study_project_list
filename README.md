@@ -46,4 +46,5 @@
   1) fastCampus-heavyTrafficProject-Board-Server ( fastCampus-heavyTrafficProject-Board-Server )
   2) fastCampus-heavyTrafficProject-Board-Server-Locust ( fastCampus-heavyTrafficProject-Board-Server-Locust )
   3) fastCampus-heavyTrafficProject-waiting-system ( fastCampus-heavyTrafficProject-waiting-system )
+  4) fastCampus-heavyTrafficProject-coupon-version-management ( fastCampus-heavyTrafficProject-coupon-version-management )
 ```
