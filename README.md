@@ -49,4 +49,5 @@
   4) fastCampus-heavyTrafficProject-coupon-version-management ( fastCampus-heavyTrafficProject-coupon-version-management )
   5) fastCampus-heavyTrafficProject-my-hello-world ( fastCampus-heavyTrafficProject-my-hello-world )
   6) fastCampus-heavyTrafficProject-docker-compose-test ( fastCampus-heavyTrafficProject-docker-compose-test )
+  7) fastCampus-heavyTrafficProject-kafka-cluster-test ( fastCampus-heavyTrafficProject-kafka-cluster-test )
 ```
