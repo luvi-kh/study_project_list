@@ -50,4 +50,5 @@
   5) fastCampus-heavyTrafficProject-my-hello-world ( fastCampus-heavyTrafficProject-my-hello-world )
   6) fastCampus-heavyTrafficProject-docker-compose-test ( fastCampus-heavyTrafficProject-docker-compose-test )
   7) fastCampus-heavyTrafficProject-kafka-cluster-test ( fastCampus-heavyTrafficProject-kafka-cluster-test )
+  8) fastCampus-heavyTrafficProject-spring-cassandra-test ( fastCampus-heavyTrafficProject-spring-cassandra-test )
 ```
