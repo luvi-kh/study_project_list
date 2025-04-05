@@ -52,4 +52,5 @@
   7) fastCampus-heavyTrafficProject-kafka-cluster-test ( fastCampus-heavyTrafficProject-kafka-cluster-test )
   8) fastCampus-heavyTrafficProject-spring-cassandra-test ( fastCampus-heavyTrafficProject-spring-cassandra-test )
   9) fastCampus-heavyTrafficProject-Black-Friday-Project ( fastCampus-heavyTrafficProject-Black-Friday-Project )
+  10) fastCampus-heavyTrafficProject-serverless ( fastCampus-heavyTrafficProject-serverless )
 ```
