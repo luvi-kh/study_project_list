@@ -55,4 +55,5 @@
   10) fastCampus-heavyTrafficProject-serverless ( fastCampus-heavyTrafficProject-serverless )
   11) fastCampus-heavyTrafficProject-featureflag ( fastCampus-heavyTrafficProject-featureflag )
   12) fastCampus-heavyTrafficProject-dsp-migration ( fastCampus-heavyTrafficProject-dsp-migration )
+  13) fastCampus-heavyTrafficProject-kubernetes-infra ( fastCampus-heavyTrafficProject-kubernetes-infra )
 ```
