@@ -62,5 +62,7 @@
   17) fastCampus-heavyTrafficProject-kubernetes-notification-batch ( fastCampus-heavyTrafficProject-kubernetes-notification-batch )
   18) fastCampus-heavyTrafficProject-kubernetes-testdatagen ( fastCampus-heavyTrafficProject-kubernetes-testdatagen )
   19) fastCampus-heavyTrafficProject-kubernetes-timeline-sersver ( fastCampus-heavyTrafficProject-kubernetes-timeline-sersver )
+5. fastCampus-simplePayment
+  1) fastCampus-simplePayment-pay ( fastCampus-simplePayment-pay )
 
 ```
