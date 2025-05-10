@@ -1,0 +1,198 @@
+# Flags for our UI
+apiVersion: core.openfeature.dev/v1beta1
+kind: FeatureFlag
+metadata:
+  name: ui-flags
+  labels:
+    app: open-feature-demo
+spec:
+  flagSpec:
+    flags:
+      new-welcome-message:
+        state: ENABLED
+        variants:
+          'on': true
+          'off': false
+        defaultVariant: 'off'
+      hex-color:
+        variants:
+          red: c05543
+          green: 2f5230
+          blue: 0d507b
+          yellow: d4ac0d
+        defaultVariant: blue
+        state: ENABLED
+        targeting:
+          if:
+            - in:
+                - '@faas.com'
+                - var:
+                    - email
+            - red
+            - null
+---
+# Flags for our backend application
+apiVersion: core.openfeature.dev/v1beta1
+kind: FeatureFlag
+metadata:
+  name: app-flags
+  labels:
+    app: open-feature-demo
+spec:
+  flagSpec:
+    flags:
+      fib-algo:
+        variants:
+          recursive: recursive
+          memo: memo
+          loop: loop
+          binet: binet
+        defaultVariant: recursive
+        state: ENABLED
+        targeting:
+          if:
+            - in:
+                - '@faas.com'
+                - var:
+                    - email
+            - recursive
+            - null
+      use-remote-fib-service:
+        state: ENABLED
+        variants:
+          'on': true
+          'off': false
+        defaultVariant: 'off'
+---
+# Feature flag source custom resource, configuring flagd to source flags from FeatureFlag CRDs
+apiVersion: core.openfeature.dev/v1beta1
+kind: FeatureFlagSource
+metadata:
+  name: flag-sources
+  labels:
+    app: open-feature-demo
+spec:
+  sources:
+    - source: poc-flagd/app-flags
+      provider: kubernetes
+    - source: poc-flagd/ui-flags
+      provider: kubernetes
+
+---
+# Deployment of a demo-app using our custom resources
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: open-feature-demo-deployment
+  labels:
+    app: open-feature-demo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: open-feature-demo
+  template:
+    metadata:
+      labels:
+        app: open-feature-demo
+      annotations:
+        openfeature.dev/enabled: 'true'
+        openfeature.dev/featureflagsource: 'poc-flagd/flag-sources'
+    spec:
+      containers:
+        - name: open-feature-demo
+          image: ghcr.io/open-feature/playground-app:v0.16.0 # x-release-please-version
+          args:
+            - flagd
+          ports:
+            - containerPort: 30000
+          env:
+            - name: FLAGD_PORT_WEB
+              value: '443'
+            - name: FLAGD_TLS_WEB
+              value: 'true'
+            - name: FLAGD_HOST_WEB
+              value: 'flagd-demo-ui.aidt.classting.dev'
+---
+# Service to expose our application
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-app-service
+  labels:
+    app: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo
+  ports:
+    - port: 30000
+      targetPort: 30000
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: open-feature-demo-app
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+    kubernetes.io/tls-acme: "true"
+    nginx.ingress.kubernetes.io/backend-protocol: "http"
+spec:
+  ingressClassName: "nginx"
+  rules:
+  - host: flagd-demo-app.aidt.classting.dev
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: open-feature-demo-app-service
+            port:
+              number: 30000
+  tls:
+  - hosts:
+    - flagd-demo-app.aidt.classting.dev
+    secretName: flagd-demo-app-tls
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: open-feature-demo-ui-service
+  labels:
+    app: open-feature-demo
+spec:
+  type: ClusterIP
+  selector:
+    app: open-feature-demo
+  ports:
+    - port: 30002
+      targetPort: 8013
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: open-feature-demo-ui
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+    nginx.ingress.kubernetes.io/backend-protocol: "GRPC"
+    kubernetes.io/tls-acme: "true"
+    nginx.ingress.kubernetes.io/backend-protocol: "http"
+spec:
+  ingressClassName: "nginx"
+  rules:
+  - host: flagd-demo-ui.aidt.classting.dev
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: open-feature-demo-ui-service
+            port:
+              number: 30002
+  tls:
+  - hosts:
+    - flagd-demo-ui.aidt.classting.dev
+    secretName: flagd-demo-ui-tls
+---
