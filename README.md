@@ -66,8 +66,8 @@
   1) fastCampus-simplePayment-pay ( fastCampus-simplePayment-pay )
 6. fastCampus-springWebflux
   1) fastCampus-springWebflux ( fastCampus-springWebflux )
-     1. completable-future
-     2. nio-server
+     1. nio-server
+     2. completable-future
      3. reactive-streams
      4. selector
 
