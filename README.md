@@ -70,5 +70,6 @@
      2. completable-future
      3. reactive-streams
      4. selector
+     5. reactor-pattern
 
 ```
