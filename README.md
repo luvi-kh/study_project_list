@@ -72,5 +72,6 @@
      4. selector
      5. reactor-pattern
      6. proactor-pattern
+     7. netty
 
 ```
