@@ -74,5 +74,7 @@
      6. proactor-pattern
      7. netty
      8. reactor
+     9. webflux
+     10. webflux-image
 
 ```
