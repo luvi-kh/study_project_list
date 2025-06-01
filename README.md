@@ -77,5 +77,6 @@
      9. webflux-image
      10. webflux
      11. sse
+     12. websocket
 
 ```
