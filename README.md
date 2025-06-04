@@ -80,5 +80,6 @@
      12. websocket
      13. r2dbc-webflux
      14. mongo-chat
+     15. redis-noti
 
 ```
