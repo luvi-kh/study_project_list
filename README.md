@@ -82,5 +82,7 @@
      14. mongo-chat
      15. redis-webflux-image
      16. redis-noti
+     17. coroutine-mongo-chat
+     18. coroutine-r2dbc-webflux
 
 ```
