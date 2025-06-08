@@ -84,5 +84,8 @@
      16. redis-noti
      17. coroutine-mongo-chat
      18. coroutine-r2dbc-webflux
+     19. r2dbc-webflux-unit-test
+     20. r2dbc-webflux-slice-test
+     21. r2dbc-webflux-integration-test
 
 ```
