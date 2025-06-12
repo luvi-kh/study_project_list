@@ -87,5 +87,6 @@
      19. r2dbc-webflux-unit-test
      20. r2dbc-webflux-slice-test
      21. r2dbc-webflux-integration-test
+     22. campusgram
 
 ```
