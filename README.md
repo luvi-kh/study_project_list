@@ -123,5 +123,11 @@
      32. fastcampus-frontend-react-graphql-todo-app ( fastcampus-frontend-react-graphql-todo-app )
      33. fastcampus-frontend-css ( fastcampus-frontend-css )
      34. fastcampus-frontend-overwatch-hero-selector-vanilla ( fastcampus-frontend-overwatch-hero-selector-vanilla )
+8. inflearn-vuejs
+     1. inflearn-vuejs-learn-vue-js ( inflearn-vuejs-learn-vue-js )
+     2. inflearn-vuejs-vue-intermediate ( inflearn-vuejs-vue-intermediate )
+     3. inflearn-vuejs-vue-advanced ( inflearn-vuejs-vue-advanced )
+     4. inflearn-vuejs-vue-til, inflearn-vuejs-vue-til-server  ( inflearn-vuejs-vue-til, inflearn-vuejs-vue-til-server )
+
 
 ```
