@@ -111,4 +111,17 @@
      20. fastcampus-frontend-nextjs13-app ( fastcampus-frontend-nextjs13-app )
      21. fastcampu-frontend-danggunmarket-app ( fastcampu-frontend-danggunmarket-app )
      22. fastcampus-frontend-webpack-basic ( fastcampus-frontend-webpack-basic )
+     23.                                   ( fastcampus-frontend-react-vite )
+     24. fastcampus-frontend-react-material-ui-app ( fastcampus-frontend-react-material-ui-app )
+     25. fastcampus-frontend-react-tailwind-app ( fastcampus-frontend-react-tailwind-app )
+     26. fastcampus-frontend-react-emotion-book-list-app ( fastcampus-frontend-react-emotion-book-list-app )
+     27. fastcampus-frontend-react-youtube-sass-app ( fastcampus-frontend-react-youtube-sass-app )
+     28.                                   ( fastcampus-frontend-nodejs-module-system )
+     29. fastcampus-frontend-nodejs-expressjs ( fastcampus-frontend-nodejs-expressjs )
+     30. fastcampus-frontend-express-graphql ( fastcampus-frontend-express-graphql )
+     31.                                   ( fastcampus-frontend-dockerfile-folder )
+     32. fastcampus-frontend-react-graphql-todo-app ( fastcampus-frontend-react-graphql-todo-app )
+     33. fastcampus-frontend-css ( fastcampus-frontend-css )
+     34. fastcampus-frontend-overwatch-hero-selector-vanilla ( fastcampus-frontend-overwatch-hero-selector-vanilla )
+
 ```
