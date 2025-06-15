@@ -88,5 +88,27 @@
      20. r2dbc-webflux-slice-test
      21. r2dbc-webflux-integration-test
      22. campusgram
-
+7. fastCampus-frontend
+     1. pg-fastCampus-frontend-starbucks-vanilla ( starbucks_practice ) -> starbucks-vanilla-app
+     2. pg-fastCampus-frontend-media ( pg-fastCampus-frontend-media )
+     3. fastCampus-frontend-apple-ipad-app ( fastCampus-frontend-apple-ipad-app )
+     4. pg-fastCampus-frontend-signature ( pg-fastCampus-frontend-signature )
+     5. fastCampus-frontend-ts-test ( fastCampus-frontend-ts-test )
+     6. fastCampus-frontend-vanillajs-movie-app ( fastCampus-frontend-vanillajs-movie-app )
+     7. fastcampus-frontend-react-tictactoe-app ( fastcampus-frontend-react-tictactoe-app )
+     8. fastcampus-frontend-react-performance-app ( fastcampus-frontend-react-performance-app )
+     9. fastcampus-frontend-react-context-app ( fastcampus-frontend-react-context-app )
+     10. fastcampus_frontend-react-redux-app ( fastcampus_frontend-react-redux-app )
+     11. fastcampus-frontend-react-redux-toolkit ( fastcampus-frontend-react-redux-toolkit )
+     12. fastcampus-frontend-react-disney-plus-app ( fastcampus-frontend-react-disney-plus-app )
+     13. fastcampus-frontend-react-mobx-counter-app ( fastcampus-frontend-react-mobx-counter-app )
+     14. fastcampus-frontend-react-recoil-basic-app ( fastcampus-frontend-react-recoil-basic-app )
+     15. fastcampus-frontend-react-recoil-todo-app ( fastcampus-frontend-react-recoil-todo-app )
+     16. fastcampus-frontend-react-mobx-todo-app ( fastcampus-frontend-react-mobx-todo-app )
+     17. fastcampus-frontend-react-mobx-counter-decorator-app ( fastcampus-frontend-react-mobx-counter-decorator-app )
+     18. fastcampus-frontend-react-zustand-basic-app ( fastcampus-frontend-react-zustand-basic-app )
+     19. fastcampus-frontend-nextjs-app ( fastcampus-frontend-nextjs-app )
+     20. fastcampus-frontend-nextjs13-app ( fastcampus-frontend-nextjs13-app )
+     21. fastcampu-frontend-danggunmarket-app ( fastcampu-frontend-danggunmarket-app )
+     22. fastcampus-frontend-webpack-basic ( fastcampus-frontend-webpack-basic )
 ```
