@@ -131,6 +131,7 @@
 9. fastcampus-frontend-highperformance
      1. fastcampus-fe-highperformance-react-blog
      2. fastcampus-fe-highperformance-twitter
-     3. fastcampus-fe-highperformance-next-map 
+     3. fastcampus-fe-highperformance-next-map
+     4. fastcampus-fe-highperformance-wedding
 
 ```
