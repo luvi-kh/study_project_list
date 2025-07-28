@@ -135,5 +135,6 @@
      4. fastcampus-fe-highperformance-wedding
      5. fastcampus-fe-highperformance-mcard
      6. fastcampus-fe-highperformance-love-trip
+     7. fastcampus-fe-highperformance-my-account
 
 ```
