@@ -137,5 +137,7 @@
      6. fastcampus-fe-highperformance-love-trip
      7. fastcampus-fe-highperformance-my-account
      8. fastcampus-fe-highperformance-ui-project
+10. fastcampus-reactnative
+     1. fastcampus-reactnative-part1-ch3-1-core-components
 
 ```
