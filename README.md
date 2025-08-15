@@ -148,5 +148,5 @@
      8. fastcampus-reactnative-part2-ch5-kakao-bus
      9. fastcampus-reactnative-part2-ch6-translation
      10. fastcampus-reactnative-part3-part4
-
+        1) react-navigation-tutorial
 ```
