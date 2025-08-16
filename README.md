@@ -151,6 +151,7 @@
        A. part3
           1) react-navigation-tutorial
           2) example_component
-          3) context-api-example
-          4) wallpaper
+          3) wallpaper
+          4) context-api-example
+          
 ```
