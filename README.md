@@ -153,5 +153,6 @@
           2) example_component
           3) wallpaper
           4) context-api-example
+          5) lotto-number-get
           
 ```
