@@ -156,5 +156,6 @@
           5) lotto-number-get
           6) lotto-number-get-with-redux-persist
           7) webpage-scrapper
+          8) news-scrapper
           
 ```
