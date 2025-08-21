@@ -161,5 +161,6 @@
           10) MyDiary
           11) my-first-typescript-app
           12) anstagram
+          13) expo-eject-test
           
 ```
