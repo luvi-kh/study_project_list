@@ -168,4 +168,5 @@
           3) Calculator
           4) AwesomeReanimated
           5) Level
+          6) FavoriteRestraunt
 ```
