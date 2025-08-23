@@ -165,5 +165,5 @@
       B. part4
           1) RNCliTest
           2) AwesomeNewArchitecture
-          
+          3) Calculator
 ```
