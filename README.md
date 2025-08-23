@@ -164,5 +164,6 @@
           13) expo-eject-test
       B. part4
           1) RNCliTest
+          2) AwesomeNewArchitecture
           
 ```
