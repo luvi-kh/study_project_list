@@ -166,4 +166,5 @@
           1) RNCliTest
           2) AwesomeNewArchitecture
           3) Calculator
+          4) AwesomeReanimated
 ```
