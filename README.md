@@ -174,10 +174,4 @@
           9) LoveDog
           10) react-native-photo-gesture
      11. fastcampus-reactnative-part5-RNAnimation
-       A. chapter2
-          1) AnimatedComponents.js
-          2) AnimatedValue.js
-          3) AnimatedTiming.js
-          4) AnimatedSpring.js
-          5) AnimatedDecay.js
 ```
