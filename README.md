@@ -179,4 +179,5 @@
           2) AnimatedValue.js
           3) AnimatedTiming.js
           4) AnimatedSpring.js
+          5) AnimatedDecay.js
 ```
