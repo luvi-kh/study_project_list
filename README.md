@@ -177,4 +177,5 @@
        A. chapter2
           1) AnimatedComponents.js
           2) AnimatedValue.js
+          3) AnimatedTiming.js
 ```
