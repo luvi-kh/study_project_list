@@ -174,4 +174,5 @@
           9) LoveDog
           10) react-native-photo-gesture
      11. fastcampus-reactnative-part5-RNAnimation
+     12. fastcampus-reactnative-part6
 ```
