@@ -182,4 +182,13 @@
     3. fastcampus-android-part0-chapter3-1
     4. fastcampus-android-part0-chapter3-2
     5. fastcampus-android-part0-chapter4
+    6. fastcampus-android-part1-chapter2
+    7. fastcampus-android-part1-chapter3
+    8. fastcampus-android-part1-chapter4
+    9. fastcampus-android-part1-chapter5
+    10. fastcampus-android-part1-chapter6
+    11. fastcampus-android-part1-chapter7
+    12. fastcampus-android-part1-chapter8
+    13. fastcampus-android-part1-chapter9
+
 ```
