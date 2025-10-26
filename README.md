@@ -218,5 +218,8 @@
     39. fastcampus-android-part4plus-chapter4
     40. fastcampus-android-part5-chapter2
 
+12. fastcampus-python
+    1. fastcampus-python-backend
+
 
 ```
