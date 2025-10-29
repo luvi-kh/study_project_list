@@ -221,6 +221,6 @@
 12. fastcampus-python
     1. fastcampus-python-backend
        1) code
-
+       2) part10_to_13
 
 ```
