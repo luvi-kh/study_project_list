@@ -222,5 +222,7 @@
     1. fastcampus-python-backend
        1) code
        2) part10_to_13
+       3) django-project
+       4) django-update
 
 ```
