@@ -226,5 +226,6 @@
        4) django-update
        5) P4-1
        6) P4-2
+          https://github.com/riseryan89/fc-python-online-cicd
 
 ```
