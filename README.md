@@ -228,5 +228,6 @@
        6) P4-2
           fastcampus-python-backend-online-cicd (https://github.com/riseryan89/fc-python-online-cicd)
        7) fastapi
+       8) backend
 
 ```
