@@ -229,6 +229,6 @@
           fastcampus-python-backend-online-cicd (https://github.com/riseryan89/fc-python-online-cicd)
        7) fastapi
        8) backend
-       9) https://github.com/riseryan89/fc_service_llm
+       9) fastcampus-python-chatbot_llm ( https://github.com/riseryan89/fc_service_llm )
 
 ```
