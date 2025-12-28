@@ -235,6 +235,7 @@
    1. fastcampus-ios
       1) APP1_voiceRecorder
       2) APP2_KTV
+         ServerSimulator
          Ch2-4:  Study project > Task
 
 ```
