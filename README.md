@@ -240,5 +240,6 @@
          Ch2-8:  Study project > ModalPresentation
          Ch3-1:  Study project > KVO
          Ch3-2:  Study project > Notification
+         Ch5-1:  Study project > CompositionalLayout
 
 ```
