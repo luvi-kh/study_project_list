@@ -245,6 +245,8 @@
          Ch7-1:  Study project > ModalTransitionStyle
       3) APP3_LMessenger
   2. fastcampus-ios-cproject
+  3. apply_pattern @ b2fea33
+  4. fast_campus_BM @ 7fe85a6
 
 
 ```
