@@ -247,6 +247,8 @@
   2. fastcampus-ios-cproject
   3. apply_pattern @ b2fea33
   4. fast_campus_BM @ 7fe85a6
+  5. 부록1_02MemoryDebug
+  6. 부록2_Opensources @ e41f52b
 
 
 ```
